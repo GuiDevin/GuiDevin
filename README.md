@@ -1,8 +1,3 @@
-<video controls width="100%">
-    <source src="[(https://github.com/GuiDevin/GuiDevin/blob/f8f615aa4bf4f15bc729594565e042878d6fdcca/PixVerse_V5.5_Image_Text_360P_V%C3%ADdeo_animado_em(1).mp4)]" type="video/mp4">
-</video>
-
-
 <h1 align="center">👋 Olá! Eu sou o Guilherme Eller Coan</h1>
 
 <p align="center">
