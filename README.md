@@ -22,8 +22,8 @@ Estou sempre buscando aprender e evoluir com as seguintes tecnologias:
 - 🗃️ Banco de Dados (SQL com Oracle Database e PostgreSQL)
 - 🐍 Python (*Nível Intermediário/Avançado)
 - 🐘 PHP (*Nível básico)
-- 
-Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel Art** e animações leves.
+- Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel Art** e animações leves.
+
 
 ---
 
