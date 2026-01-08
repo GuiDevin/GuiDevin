@@ -1,6 +1,5 @@
 <video controls width="100%">
-    <source src="URL_DO_SEU_VIDEO.mp4" type="video/mp4">
-    Seu navegador não suporta a tag de vídeo.
+    <source src="[(https://github.com/GuiDevin/GuiDevin/blob/f8f615aa4bf4f15bc729594565e042878d6fdcca/PixVerse_V5.5_Image_Text_360P_V%C3%ADdeo_animado_em(1).mp4)]" type="video/mp4">
 </video>
 
 
