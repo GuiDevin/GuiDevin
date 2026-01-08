@@ -1,4 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou o Guilherme Eller Coan</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=07F738&background=FF042400&width=900&lines=Hello%2C+my+name+is+Guilherme+Eller+Coan)](https://git.io/typing-svg)
 
 <p align="center">
   💻 Desenvolvedor Full-Stack <br>
